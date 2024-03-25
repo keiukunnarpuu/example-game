@@ -1,5 +1,5 @@
 # import and initialize the pygame library
-import pygame
+import pygame, sys
 from settings import Settings
 
 def run_game():
@@ -21,5 +21,6 @@ def run_game():
             pygame.display.flip()
         # done! time to quit
         pygame.quit()
+        sys.exit()
         
 run_game()
