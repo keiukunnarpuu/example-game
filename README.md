@@ -22,7 +22,7 @@
 - Name: Keiu
 - Age: 17
 - School: Tartu Vocational College
-- Contact: keiu.kunnarpuu@gmail.com
+- Contact: keiu.kunnarpuu@voco.ee
 
 ## Materials used
 
